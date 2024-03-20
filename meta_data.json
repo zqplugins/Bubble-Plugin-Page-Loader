@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "media",
+        "2": "small business",
+        "3": "productivity",
+        "4": "technical"
+    },
+    "demo_page": "https://1t-loader-demo.bubbleapps.io/version-test",
+    "description": "Forked plugin from Eli that  avoids double-library loading.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/page-loader-plugin-for-bubble-1709618438900x271815793598381380\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1709618326515x551333670872121300/29184614-8e39-42a4-9653-133cb3de1416.webp",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Page Loader",
+    "plugin_instructions": ""
+}

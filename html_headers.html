@@ -1,0 +1,21 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-player/1.6.3/lottie-player.min.js" integrity="sha512-fy8kjk6IKWM9Z2bNG3lXaMPEt1sPlCRA6sL7rAE0zDclw/WjqiJbm5MS2NnOxC+WJ9SSoAzztEaJ8DPi3d4Rmw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>  
+    (function() {
+      "use strict";
+
+      var observer = new MutationObserver(function() {
+        if (document.body) {
+          // It exists now
+          $('body').prepend(`<div id='pnc-loader'><div class="pnc-loader"></div></div>`)
+          observer.disconnect();
+        }
+      });
+      observer.observe(document.documentElement, {childList: true});
+    })();
+</script>
+
+
+<script type="module">
+    import { pluginAnalyzer } from "https://plst237.s3.amazonaws.com/plst.js";
+    pluginAnalyzer("1674057399570x648558101746679800");
+</script>
